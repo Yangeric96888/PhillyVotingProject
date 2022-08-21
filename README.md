@@ -14,7 +14,7 @@ Using Pandas, I brought the spreadsheet info into Python. Then, I used the Pytho
 Et voila, it finally works!
 
 # Credit
-Office of Philadelphia City Commission (https://www.philadelphiavotes.com/home/item/2111-polling-place-list-2022-primary-election.html), for providing the poll station data
+Office of Philadelphia City Commission (https://www.philadelphiavotes.com/home/item/2111-polling-place-list-2022-primary-election.html), for providing the poll station data <br>
 Geocodio, for converting locations into coordinates 
 Folium, for providing map code
 Glyphicons and Bootstrap, for providing the icon used in this project
