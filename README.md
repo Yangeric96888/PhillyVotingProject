@@ -1,7 +1,5 @@
 # Philly Voting Map
-Hello, I hope you are having a good day! To use this project, <b> go here, open with Google Collab, and scroll to the bottom to see the interactive map: https://drive.google.com/file/d/1fltUTuthbMtW208B6MPPbXr4Q3jp--bP/view?usp=sharing </b>
-
-(Sorry if accessing it is a it complicated - I cannot afford to directly host it!)
+Hello, I hope you are having a good day! To use this project, go here: https://colab.research.google.com/github/Yangeric96888/PhillyVotingProject/blob/master/main.ipynb
 
 I created a project that aims to map the various polls for Philadelphia's voting polls for the 2022 election.
 Besides just physically listing every spot, every poll contains information on its building accessibility and parking, if you hover over the map marker.
